@@ -1,23 +1,24 @@
-# Roadmap.sh - Datepicker UI <br>
+# Roadmap.sh - Changelog Component <br>
 
-This is my solution to roadmap.sh Datepicker UI idea. <br>
+This is my solution to roadmap.sh Changelog Component idea. <br>
 
 ## Links <br>
 
- - Project idea: [https://roadmap.sh/projects/datepicker-ui](https://roadmap.sh/projects/datepicker-ui)
- - Live URL: [https://tsrebniak.github.io/datepicker-ui](https://tsrebniak.github.io/datepicker-ui)
+ - Project idea: [https://roadmap.sh/projects/changelog-component](https://roadmap.sh/projects/changelog-component)
+ - Live URL: [https://tsrebniak.github.io/changelog-component/](https://tsrebniak.github.io/changelog-component/)
 
 ## Built with
 
 - HTML5
 - CSS3
   - Flexbox
-  - Grid <br>
+  - Pseudoelements
+  - Absolute positioning <br>
 
 ## What I learned
 
-- I remembered Flexbox and Grid <br>
+- I remembered flexbox, pseudoelements and absolute positioning <br>
 
 ## Conclusions
 
-- I need to pay more attention to semantic
+- I have to work with responsiveness
