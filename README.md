@@ -5,7 +5,7 @@ This is my solution to roadmap.sh Datepicker UI idea. <br>
 ## Links <br>
 
  - Project idea: [https://roadmap.sh/projects/datepicker-ui](https://roadmap.sh/projects/datepicker-ui)
- - Live URL: [to be placed](link)
+ - Live URL: [https://tsrebniak.github.io/datepicker-ui](https://tsrebniak.github.io/datepicker-ui)
 
 ## Built with
 
