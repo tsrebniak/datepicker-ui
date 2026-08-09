@@ -1,4 +1,4 @@
-# Roadmap.sh -Datepicker UI <br>
+# Roadmap.sh - Datepicker UI <br>
 
 This is my solution to roadmap.sh Datepicker UI idea. <br>
 
