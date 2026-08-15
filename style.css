@@ -93,7 +93,7 @@ body {
 }
 
 .day-of-a-week {
-	background-color: #cccccc;;
+	background-color: #cccccc;
 	padding: 0.8rem;
 }
 
@@ -107,4 +107,16 @@ body {
 	grid-column: 7 / 8;
 	font-weight: 700;
 	color: #ef0000;
+}
+
+@media (max-width: 620px) {
+	html {
+		font-size: 45%;
+	}
+}
+
+@media (max-width: 435px) {
+	html {
+		font-size: 30%;
+	}
 }
